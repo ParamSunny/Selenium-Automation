@@ -56,3 +56,6 @@ cd PraxonAutomation
 mvn clean install
 mvn exec:java
 ```
+
+## Video File
+I add one video file named as SeleniumTesting.mp4 for demonstration.
